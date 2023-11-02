@@ -239,3 +239,12 @@ Do you want to contribute to this list? Feel free to send a PR and make sure you
 * **buckets.grayhatwarfare** [https://github.com/buckets.grayhatwarfare](https://github.com/buckets.grayhatwarfare)
 * **Cloud Security Newsletter by Marco Lancini** [https://cloudseclist.com/](https://cloudseclist.com/)
 * **Cloud Security Podcast by Ashish Rajan** [https://www.cloudsecuritypodcast.tv](www.cloudsecuritypodcast.tv)
+
+  ## Connect with me! 🌐
+Known on internet as **BadBoy17**
+
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](www.linkedin.com/in/kunal-ranjan-166b30249)      [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://github.com/BadBoy0170)     [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" title="Instagram">](https://instagram.com/badboy__17_/) 
+
+## Email Me :
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/secured-letter.png" title="Mail me">](mailto:Rajveershikhawat07@gmail.com)
+
